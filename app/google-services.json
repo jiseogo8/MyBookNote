@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "953806389164",
+    "firebase_url": "https://mybooknotev4.firebaseio.com",
+    "project_id": "mybooknotev4",
+    "storage_bucket": "mybooknotev4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953806389164:android:2701978f783266fc980409",
+        "android_client_info": {
+          "package_name": "com.example.my_book_notev4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953806389164-7qb872sunjmvt22vd512dvhapmj0tkcb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.my_book_notev4",
+            "certificate_hash": "7a3201f09ed8e77eea6ae37c05eaf69ae560e675"
+          }
+        },
+        {
+          "client_id": "953806389164-js39vfkies4n4vq9qdque1r0rs6sdjnp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFz7ydRCEkE-__C38K6iR1gjNYkgGj8as"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953806389164-js39vfkies4n4vq9qdque1r0rs6sdjnp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

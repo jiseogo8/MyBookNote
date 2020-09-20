@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MyBookNote</string>
+    <string name="title_activity_example">example</string>
+    <string name="id">아이디</string>
+    <string name="log_in">로그인</string>
+    <string name="register">회원가입</string>
+    <string name="basic">기초정보 입력(선택)</string>
+    <string name="age">나이</string>
+    <string name="complete">완료</string>
+    <string name="skip">건너뛰기</string>
+    <string name="title_activity_maingaesipan">maingaesipan</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="mybook">추천 도서</string>
+    <string name="note">기록장</string>
+    <string name="recomand">추천 책</string>
+    <string name="readbook">읽은 책:</string>
+    <string name="title_activity_notes">notes</string>
+    <string name="book">나의 책</string>
+    <string name="reportd">기록장</string>
+    <string name="readbooknotes">나의 읽은 책</string>
+    <string name="propil">프로필</string>
+    <string name="weeklybook">주간 읽은 책</string>
+    <string name="start">시작</string>
+    <string name="ID_DUPLICATION_TOAST_MESSAGE">"아이디가 중복됩니다!"</string>\
+    <string name="matilda">"1. 마틸다"</string>
+</resources>
